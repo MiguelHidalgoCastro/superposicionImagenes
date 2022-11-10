@@ -1,0 +1,35 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+	display: inline-block; /*para que el div se ajuste a la foto*/
+	float:left;
+	position:absolute;
+}
+
+div#uno{
+	
+}
+div#dos{
+	top:100px;
+	left:100px;
+}
+div#tres{
+	left:250px;
+}
+div#cuatro{
+	top:250px;
+
+}
+div#cinco{
+	top:250px;
+	left:250px;
+}
+div#seis{
+	top:200px;
+	left:200px;
+}
